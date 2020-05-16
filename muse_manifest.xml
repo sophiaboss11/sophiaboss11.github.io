@@ -1,24 +1,61 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sophia-boss-portfolio.com" resolutions="1x,2x" timestamp="1587257861381">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sophiaboss11.github.io" resolutions="1x,2x" timestamp="1589614470546">
+  <folder name="assets">
+    <file name="--mt---toolbox---scroll-reveal-(1.1).mulib" crc="510472003" seo="true" mt="1589603925000"/>
+    <file name="blurvideoedit.mp4" crc="3821044661" seo="true" mt="1589589394000"/>
+  </folder>
   <folder name="css">
-    <file name="site_global.css" crc="25744048"/>
-    <file name="about.css" crc="4193191577" ref="about"/>
-    <file name="index.css" crc="4000259411" ref="index"/>
-    <file name="home-page-copy-copy.css" crc="4193191577" ref="home-page-copy-copy"/>
-    <file name="home-page-copy-copy-copy.css" crc="4193191577" ref="home-page-copy-copy-copy"/>
+    <file name="site_global.css" crc="3839925840"/>
+    <file name="about.css" crc="403709175" ref="about"/>
+    <file name="index.css" crc="189672079" ref="index"/>
+    <file name="master_a-master.css" crc="3825404808" ref="2d:3d:work:let-s-connect:links:about:resume:design:home:projects"/>
+    <file name="2d.css" crc="403709175" ref="2d"/>
+    <file name="3d.css" crc="403709175" ref="3d"/>
+    <file name="work.css" crc="403709175" ref="work"/>
+    <file name="let-s-connect.css" crc="403709175" ref="let-s-connect"/>
+    <file name="links.css" crc="4006219386" ref="links"/>
+    <file name="resume.css" crc="403709175" ref="resume"/>
+    <file name="design.css" crc="403709175" ref="design"/>
+    <file name="home.css" crc="403709175" ref="home"/>
+    <file name="projects.css" crc="403709175" ref="projects"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:home-page-copy-copy:home-page-copy-copy-copy"/>
-    <file name="museutils.js" crc="3939489907" ref="index:about:home-page-copy-copy:home-page-copy-copy-copy"/>
-    <file name="whatinput.js" crc="86476730" ref="index:about:home-page-copy-copy:home-page-copy-copy-copy"/>
-    <file name="museconfig.js" crc="128606099" ref="index:about:home-page-copy-copy:home-page-copy-copy-copy"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index:about:home-page-copy-copy:home-page-copy-copy-copy"/>
-    <file name="require.js" crc="4177726516" ref="index:about:home-page-copy-copy:home-page-copy-copy-copy"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:links:work:home:2d:3d:design:projects:resume:let-s-connect"/>
+    <file name="museutils.js" crc="3939489907" ref="index:about:links:work:home:2d:3d:design:projects:resume:let-s-connect"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:links:work:home:2d:3d:design:projects:resume:let-s-connect"/>
+    <file name="museconfig.js" crc="128606099" ref="index:about:links:work:home:2d:3d:design:projects:resume:let-s-connect"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:about:links:work:home:2d:3d:design:projects:resume:let-s-connect"/>
+    <file name="require.js" crc="4177726516" ref="index:about:links:work:home:2d:3d:design:projects:resume:let-s-connect"/>
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="color-logo-01.png" crc="2557072" seo="true" ref="links">
+      <caption webpage="links" alt=""/>
+    </file>
+    <file name="color-logo-01_2x.png" crc="4197618190" seo="true" ref="links">
+      <caption webpage="links" alt=""/>
+    </file>
+    <file name="txrlogo.png" crc="535545514" seo="true" ref="links">
+      <caption webpage="links" alt=""/>
+    </file>
+    <file name="txrlogo_2x.png" crc="3882167050" seo="true" ref="links">
+      <caption webpage="links" alt=""/>
+    </file>
+    <file name="black fade.png" crc="83662889" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="black fade_2x.png" crc="482644972" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4280327237" seo="true" mt="1587257772752" redirect="true"/>
-  <file name="about.html" crc="102571890" seo="true" mt="1587255855080" redirect="false"/>
-  <file name="home-page-copy-copy.html" crc="4044417433" seo="true" mt="1587255833074" redirect="false"/>
-  <file name="home-page-copy-copy-copy.html" crc="3937298565" seo="true" mt="1587255839349" redirect="false"/>
+  <file name="index.html" crc="3816318518" seo="true" mt="1589614416810" redirect="true"/>
+  <file name="about.html" crc="4166795174" seo="true" mt="1589603083747" redirect="true"/>
+  <file name="links.html" crc="3783772087" seo="true" mt="1589611681196" redirect="true"/>
+  <file name="work.html" crc="80401825" seo="true" mt="1589603356777" redirect="true"/>
+  <file name="home.html" crc="4155645075" seo="true" mt="1589603338664" redirect="true"/>
+  <file name="2d.html" crc="415872664" seo="true" mt="1589603442534" redirect="true"/>
+  <file name="3d.html" crc="4140083111" seo="true" mt="1589603449289" redirect="true"/>
+  <file name="design.html" crc="3840382417" seo="true" mt="1589603455634" redirect="true"/>
+  <file name="projects.html" crc="309482830" seo="true" mt="1589603495182" redirect="true"/>
+  <file name="resume.html" crc="4078446975" seo="true" mt="1589603510733" redirect="true"/>
+  <file name="let-s-connect.html" crc="3998221107" seo="true" mt="1589603533735" redirect="true"/>
 </manifest>
