@@ -1,43 +1,45 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sophiaboss11.github.io" resolutions="1x,2x" timestamp="1589614470546">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sophiaboss11.github.io" resolutions="1x,2x" timestamp="1591505269509">
   <folder name="assets">
     <file name="--mt---toolbox---scroll-reveal-(1.1).mulib" crc="510472003" seo="true" mt="1589603925000"/>
     <file name="blurvideoedit.mp4" crc="3821044661" seo="true" mt="1589589394000"/>
+    <file name="img_6417.cr2" crc="3953758834" seo="true" mt="1591360640000"/>
+    <file name="img_6416.cr2" crc="387654161" seo="true" mt="1591360594000"/>
+    <file name="bartender_playblast.avi" crc="377744818" seo="true" mt="1588665556000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3839925840"/>
-    <file name="about.css" crc="403709175" ref="about"/>
-    <file name="index.css" crc="189672079" ref="index"/>
-    <file name="master_a-master.css" crc="3825404808" ref="2d:3d:work:let-s-connect:links:about:resume:design:home:projects"/>
-    <file name="2d.css" crc="403709175" ref="2d"/>
-    <file name="3d.css" crc="403709175" ref="3d"/>
-    <file name="work.css" crc="403709175" ref="work"/>
-    <file name="let-s-connect.css" crc="403709175" ref="let-s-connect"/>
-    <file name="links.css" crc="4006219386" ref="links"/>
-    <file name="resume.css" crc="403709175" ref="resume"/>
-    <file name="design.css" crc="403709175" ref="design"/>
-    <file name="home.css" crc="403709175" ref="home"/>
-    <file name="projects.css" crc="403709175" ref="projects"/>
+    <file name="about.css" crc="306792664" ref="about"/>
+    <file name="index.css" crc="4087670949" ref="index"/>
+    <file name="master_a-master.css" crc="4170048256" ref="2d:3d:work:let-s-connect:links:about:resume:design:home:projects:bodylogical:nicotine-simulation:animation-studio:critique-page"/>
+    <file name="2d.css" crc="195442840" ref="2d"/>
+    <file name="3d.css" crc="3876271047" ref="3d"/>
+    <file name="work.css" crc="3931465682" ref="work"/>
+    <file name="let-s-connect.css" crc="467600375" ref="let-s-connect"/>
+    <file name="links.css" crc="4207050797" ref="links"/>
+    <file name="resume.css" crc="175428591" ref="resume"/>
+    <file name="design.css" crc="403684119" ref="design"/>
+    <file name="home.css" crc="117596499" ref="home"/>
+    <file name="projects.css" crc="4049231038" ref="projects"/>
+    <file name="bodylogical.css" crc="306792664" ref="bodylogical"/>
+    <file name="nicotine-simulation.css" crc="306792664" ref="nicotine-simulation"/>
+    <file name="animation-studio.css" crc="306792664" ref="animation-studio"/>
+    <file name="critique-page.css" crc="306792664" ref="critique-page"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:links:work:home:2d:3d:design:projects:resume:let-s-connect"/>
-    <file name="museutils.js" crc="3939489907" ref="index:about:links:work:home:2d:3d:design:projects:resume:let-s-connect"/>
-    <file name="whatinput.js" crc="86476730" ref="index:about:links:work:home:2d:3d:design:projects:resume:let-s-connect"/>
-    <file name="museconfig.js" crc="128606099" ref="index:about:links:work:home:2d:3d:design:projects:resume:let-s-connect"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index:about:links:work:home:2d:3d:design:projects:resume:let-s-connect"/>
-    <file name="require.js" crc="4177726516" ref="index:about:links:work:home:2d:3d:design:projects:resume:let-s-connect"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:links:work:home:2d:3d:design:projects:resume:let-s-connect:critique-page:animation-studio:bodylogical:nicotine-simulation"/>
+    <file name="museutils.js" crc="3939489907" ref="index:about:links:work:home:2d:3d:design:projects:resume:let-s-connect:critique-page:animation-studio:bodylogical:nicotine-simulation"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:links:work:home:2d:3d:design:projects:resume:let-s-connect:critique-page:animation-studio:bodylogical:nicotine-simulation"/>
+    <file name="museconfig.js" crc="128606099" ref="index:about:links:work:home:2d:3d:design:projects:resume:let-s-connect:critique-page:animation-studio:bodylogical:nicotine-simulation"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:about:links:work:home:2d:3d:design:projects:resume:let-s-connect:critique-page:animation-studio:bodylogical:nicotine-simulation"/>
+    <file name="require.js" crc="4177726516" ref="index:about:links:work:home:2d:3d:design:projects:resume:let-s-connect:critique-page:animation-studio:bodylogical:nicotine-simulation"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="home:projects"/>
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="color-logo-01.png" crc="2557072" seo="true" ref="links">
-      <caption webpage="links" alt=""/>
-    </file>
-    <file name="color-logo-01_2x.png" crc="4197618190" seo="true" ref="links">
+    <file name="color-logo-01_2x.png" crc="4146615316" seo="true" ref="links">
       <caption webpage="links" alt=""/>
     </file>
     <file name="txrlogo.png" crc="535545514" seo="true" ref="links">
-      <caption webpage="links" alt=""/>
-    </file>
-    <file name="txrlogo_2x.png" crc="3882167050" seo="true" ref="links">
       <caption webpage="links" alt=""/>
     </file>
     <file name="black fade.png" crc="83662889" seo="true" ref="index">
@@ -46,16 +48,397 @@
     <file name="black fade_2x.png" crc="482644972" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="sophiaboss.png" crc="233982363" seo="true" ref="about:links:work:home:2d:3d:design:projects:resume:let-s-connect:critique-page:animation-studio:bodylogical:nicotine-simulation">
+      <caption webpage="nicotine-simulation" alt=""/>
+      <caption webpage="bodylogical" alt=""/>
+      <caption webpage="links" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="2d" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="let-s-connect" alt=""/>
+      <caption webpage="3d" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="critique-page" alt=""/>
+      <caption webpage="animation-studio" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="sophiaboss_2x.png" crc="381025838" seo="true" ref="about:links:work:home:2d:3d:design:projects:resume:let-s-connect:critique-page:animation-studio:bodylogical:nicotine-simulation">
+      <caption webpage="nicotine-simulation" alt=""/>
+      <caption webpage="bodylogical" alt=""/>
+      <caption webpage="links" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="2d" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="let-s-connect" alt=""/>
+      <caption webpage="3d" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="critique-page" alt=""/>
+      <caption webpage="animation-studio" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="work_button-layer 2.png" crc="390350711" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="work_button-work.png" crc="3765657541" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="links_button-layer 1.png" crc="4186740101" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="links_button-links.png" crc="412273962" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="aboutme_button-layer 0.jpg" crc="3949423248" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="aboutme_button-layer 0_2x.jpg" crc="18133209" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="aboutme_button-about me.jpg" crc="534251274" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="aboutme_button-about me_2x.jpg" crc="4231413372" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="purple_tree_cropped.jpg" crc="364062302" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="purple_tree_cropped_2x.jpg" crc="231465062" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="power_cube_2.jpg" crc="323635876" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="power_cube_2_2x.jpg" crc="3942203823" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="drip girl.jpg" crc="206176624" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="drip girl_2x.jpg" crc="122943597" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="lion.jpg" crc="215841182" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="lion_2x.jpg" crc="4011296556" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="mountain_poster_final_merged_1.jpg" crc="4187933315" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="mountain_poster_final_merged_1_2x.jpg" crc="3951581017" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="img_1129.jpg" crc="4062753248" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="img_1129_2x.jpg" crc="404422705" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="exhibition_poster_2_1.jpg" crc="3781136672" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="exhibition_poster_2_1_2x.jpg" crc="133316486" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="manwithstick.jpg" crc="204949963" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="manwithstick_2x.jpg" crc="363609205" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="charcoal drawing.jpg" crc="3930353741" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="charcoal drawing_2x.jpg" crc="363616718" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document 17 on jun 5, 2020 at 5_04_41 pm.jpg" crc="3871437988" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document 17 on jun 5, 2020 at 5_04_41 pm_2x.jpg" crc="4229516978" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document 18 on jun 5, 2020 at 5_04_41 pm.jpg" crc="3953363929" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document 18 on jun 5, 2020 at 5_04_41 pm_2x.jpg" crc="438251124" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document on jun 5, 2020 at 4_36_49 pm.jpg" crc="392866786" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document on jun 5, 2020 at 4_36_49 pm_2x.jpg" crc="530181178" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document 9 on jun 5, 2020 at 5_20_22 pm.jpg" crc="208304285" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document 9 on jun 5, 2020 at 5_20_22 pm_2x.jpg" crc="4088130108" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document 10 on jun 5, 2020 at 4_54_02 pm.jpg" crc="3806506083" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document 10 on jun 5, 2020 at 4_54_02 pm_2x.jpg" crc="3898864927" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="img_0104.png" crc="31012119" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="img_0104_2x.png" crc="3952541031" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="blender_finished.jpg" crc="3995767155" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="blender_finished_2x.jpg" crc="3999059109" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="dystopia1.jpg" crc="3816042447" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="dystopia1_2x.jpg" crc="101999486" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document 9 on jun 5, 2020 at 5_04_41 pm.jpg" crc="3973433915" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document 9 on jun 5, 2020 at 5_04_41 pm_2x.jpg" crc="435446356" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document 15 on jun 5, 2020 at 4_54_02 pm.jpg" crc="4180822422" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document 15 on jun 5, 2020 at 4_54_02 pm_2x.jpg" crc="4275842310" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document on jun 5, 2020 at 5_09_49 pm.jpg" crc="3989033823" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document on jun 5, 2020 at 5_09_49 pm_2x.jpg" crc="135459345" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document 5 on jun 5, 2020 at 5_04_41 pm.jpg" crc="3944284925" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document 5 on jun 5, 2020 at 5_04_41 pm_2x.jpg" crc="3971051187" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document on jun 5, 2020 at 4_54_02 pm.jpg" crc="3773365887" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document on jun 5, 2020 at 4_54_02 pm_2x.jpg" crc="73228215" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document on jun 5, 2020 at 5_20_22 pm.jpg" crc="4162304787" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document on jun 5, 2020 at 5_20_22 pm_2x.jpg" crc="3928951017" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document 15 on jun 5, 2020 at 5_04_41 pm.jpg" crc="4080766416" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document 15 on jun 5, 2020 at 5_04_41 pm_2x.jpg" crc="208481261" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document 27 on jun 5, 2020 at 5_04_41 pm.jpg" crc="3919909580" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document 27 on jun 5, 2020 at 5_04_41 pm_2x.jpg" crc="3842625095" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document 10 on jun 5, 2020 at 5_04_41 pm.jpg" crc="4250638212" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document 10 on jun 5, 2020 at 5_04_41 pm_2x.jpg" crc="160787687" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document 25 on jun 5, 2020 at 5_04_41 pm.jpg" crc="4198473482" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document 25 on jun 5, 2020 at 5_04_41 pm_2x.jpg" crc="205620974" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document 13 on jun 5, 2020 at 5_04_41 pm.jpg" crc="258725593" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document 13 on jun 5, 2020 at 5_04_41 pm_2x.jpg" crc="263614074" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document 6 on jun 5, 2020 at 5_04_41 pm.jpg" crc="3941128725" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document 6 on jun 5, 2020 at 5_04_41 pm_2x.jpg" crc="3854710923" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document 6 on jun 5, 2020 at 4_41_47 pm.jpg" crc="3897798746" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document 6 on jun 5, 2020 at 4_41_47 pm_2x.jpg" crc="91121165" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document 2 on jun 5, 2020 at 5_04_41 pm.jpg" crc="3893073361" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document 2 on jun 5, 2020 at 5_04_41 pm_2x.jpg" crc="3908489396" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document 9 on jun 5, 2020 at 4_54_02 pm.jpg" crc="141794612" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document 9 on jun 5, 2020 at 4_54_02 pm_2x.jpg" crc="119348476" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="img_8332.jpg" crc="191632599" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="img_8332_2x.jpg" crc="3822452534" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document 3 on jun 5, 2020 at 4_41_47 pm.jpg" crc="3942796968" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document 3 on jun 5, 2020 at 4_41_47 pm_2x.jpg" crc="3816127559" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document 19 on jun 5, 2020 at 5_20_22 pm.jpg" crc="4114328668" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="scannable document 19 on jun 5, 2020 at 5_20_22 pm_2x.jpg" crc="4193289120" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="men look at women().jpg" crc="3908923200" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="men look at women()_2x.jpg" crc="4031425087" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="melting.jpg" crc="4234559636" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="melting_2x.jpg" crc="4127842449" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="red project.jpg" crc="4228650600" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="red project_2x.jpg" crc="263008645" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="exhibition_poster_3_2.jpg" crc="3766073251" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="exhibition_poster_3_2_2x.jpg" crc="4195101266" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="honors recital poster .jpg" crc="66757205" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="honors recital poster _2x.jpg" crc="4203153491" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="skulla.jpg" crc="3795406040" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="skulla_2x.jpg" crc="3894426584" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="choreo show poster top starspsd.jpg" crc="536702045" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="choreo show poster top starspsd_2x.jpg" crc="4155287387" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="wastelandpsbuttoncombined-layer 1.jpg" crc="40320795" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="wastelandpsbuttoncombined-layer 1_2x.jpg" crc="429841041" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="wastelandpsbuttoncombined-wasteland.jpg" crc="307861172" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="wastelandpsbuttoncombined-wasteland_2x.jpg" crc="19457830" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="bodylogical_button-up.jpg" crc="137739210" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="bodylogical_button-up_2x.jpg" crc="4265862629" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="bodylogical_button-down.jpg" crc="201064890" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="bodylogical_button-down_2x.jpg" crc="4206710691" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="wastelandpsbuttoncombined-layer 12.jpg" crc="219867881" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="wastelandpsbuttoncombined-layer 1_2x2.jpg" crc="4224468560" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="wastelandpsbuttoncombined-wasteland2.jpg" crc="465767997" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="wastelandpsbuttoncombined-wasteland_2x2.jpg" crc="3908650012" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="ntp_buttt-layer 1.jpg" crc="234254985" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="ntp_buttt-layer 1_2x.jpg" crc="4233900075" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="ntp_buttt-ntp vr nicotiene simulation.jpg" crc="3859466545" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="ntp_buttt-ntp vr nicotiene simulation_2x.jpg" crc="3939357011" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="bliztern resume 5.jpg" crc="279859317" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="bliztern resume 5_2x.jpg" crc="3762037400" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="ig-logo-email.png" crc="531781757" seo="true" ref="let-s-connect">
+      <caption webpage="let-s-connect" alt=""/>
+    </file>
+    <file name="ig-logo-email_2x.png" crc="4040217067" seo="true" ref="let-s-connect">
+      <caption webpage="let-s-connect" alt=""/>
+    </file>
+    <file name="linkedin.jpg" crc="281993763" seo="true" ref="let-s-connect">
+      <caption webpage="let-s-connect" alt=""/>
+    </file>
+    <file name="facebook-logo.png" crc="191460715" seo="true" ref="let-s-connect">
+      <caption webpage="let-s-connect" alt=""/>
+    </file>
+    <file name="facebook-logo_2x.png" crc="3908990117" seo="true" ref="let-s-connect">
+      <caption webpage="let-s-connect" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3816318518" seo="true" mt="1589614416810" redirect="true"/>
-  <file name="about.html" crc="4166795174" seo="true" mt="1589603083747" redirect="true"/>
-  <file name="links.html" crc="3783772087" seo="true" mt="1589611681196" redirect="true"/>
-  <file name="work.html" crc="80401825" seo="true" mt="1589603356777" redirect="true"/>
-  <file name="home.html" crc="4155645075" seo="true" mt="1589603338664" redirect="true"/>
-  <file name="2d.html" crc="415872664" seo="true" mt="1589603442534" redirect="true"/>
-  <file name="3d.html" crc="4140083111" seo="true" mt="1589603449289" redirect="true"/>
-  <file name="design.html" crc="3840382417" seo="true" mt="1589603455634" redirect="true"/>
-  <file name="projects.html" crc="309482830" seo="true" mt="1589603495182" redirect="true"/>
-  <file name="resume.html" crc="4078446975" seo="true" mt="1589603510733" redirect="true"/>
-  <file name="let-s-connect.html" crc="3998221107" seo="true" mt="1589603533735" redirect="true"/>
+  <file name="index.html" crc="4202102017" seo="true" mt="1591487155428" redirect="true"/>
+  <file name="about.html" crc="4229914512" seo="true" mt="1591487119157" redirect="true"/>
+  <file name="links.html" crc="3766725880" seo="true" mt="1591487119157" redirect="true"/>
+  <file name="work.html" crc="4230730103" seo="true" mt="1591487119157" redirect="true"/>
+  <file name="home.html" crc="3953064232" seo="true" mt="1591505262164" redirect="true"/>
+  <file name="2d.html" crc="4142211138" seo="true" mt="1591487119157" redirect="true"/>
+  <file name="3d.html" crc="234092116" seo="true" mt="1591487119157" redirect="true"/>
+  <file name="design.html" crc="4243849881" seo="true" mt="1591487119157" redirect="true"/>
+  <file name="projects.html" crc="4156760838" seo="true" mt="1591505261979" redirect="true"/>
+  <file name="resume.html" crc="123211177" seo="true" mt="1591487119157" redirect="true"/>
+  <file name="let-s-connect.html" crc="3846319214" seo="true" mt="1591487834962" redirect="true"/>
+  <file name="critique-page.html" crc="3839174567" seo="true" mt="1591487119157" redirect="true"/>
+  <file name="animation-studio.html" crc="3875738395" seo="true" mt="1591487119157" redirect="true"/>
+  <file name="bodylogical.html" crc="186500408" seo="true" mt="1591487119157" redirect="true"/>
+  <file name="nicotine-simulation.html" crc="3946162556" seo="true" mt="1591487119157" redirect="true"/>
 </manifest>
