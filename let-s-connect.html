@@ -17,18 +17,27 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>let's connect</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=3839925840"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=4170048256"/>
-  <link rel="stylesheet" type="text/css" href="css/let-s-connect.css?crc=467600375" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=3770011903"/>
+  <link rel="stylesheet" type="text/css" href="css/let-s-connect.css?crc=462825550" id="pagesheet"/>
    </head>
  <body>
 
   <div class="clearfix borderbox" id="page"><!-- column -->
    <div class="position_content" id="page_position_content">
-    <div class="clearfix colelem" id="pu1694"><!-- group -->
-     <a class="nonblock nontext clip_frame grpelem" id="u1694" href="index.html"><!-- image --><img class="block" id="u1694_img" src="images/sophiaboss.png?crc=3824372476" alt="" data-heightwidthratio="0.555956678700361" data-image-width="277" data-image-height="154"/></a>
-     <a class="nonblock nontext clearfix grpelem" id="u1685-4" href="home.html"><!-- content --><p>Home</p></a>
-     <a class="nonblock nontext clearfix grpelem" id="u1688-4" href="work.html"><!-- content --><p>Work</p></a>
-     <a class="nonblock nontext clearfix grpelem" id="u1691-4" href="about.html"><!-- content --><p>About</p></a>
+    <div class="clearfix colelem" id="pu1937"><!-- group -->
+     <div class="browser_width grpelem" id="u1937-bw">
+      <div id="u1937"><!-- group -->
+       <div class="clearfix" id="u1937_align_to_page">
+        <a class="nonblock nontext clip_frame grpelem" id="u1928" href="index.html"><!-- image --><img class="block" id="u1928_img" src="images/sb_icon.gif?crc=4191900242" data-hidpi-src="images/sb_icon_2x.gif?crc=4191900242" alt="" data-heightwidthratio="0.21390374331550802" data-image-width="187" data-image-height="40"/></a>
+        <a class="nonblock nontext clearfix grpelem" id="u1685-4" href="home.html"><!-- content --><p>Home</p></a>
+        <a class="nonblock nontext clearfix grpelem" id="u1688-4" href="work.html"><!-- content --><p>Work</p></a>
+        <a class="nonblock nontext clearfix grpelem" id="u1691-4" href="about.html"><!-- content --><p>About</p></a>
+       </div>
+      </div>
+     </div>
+     <div class="browser_width grpelem" id="u1953-bw">
+      <div id="u1953"><!-- simple frame --></div>
+     </div>
     </div>
     <div class="clearfix colelem" id="pu1721-4"><!-- group -->
      <div class="clearfix grpelem" id="u1721-4"><!-- content -->
@@ -57,6 +66,8 @@ window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.detectScreenResolution();/* HiDPI screens */
 Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.resizeHeight('.browser_width');/* resize height */
+Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */

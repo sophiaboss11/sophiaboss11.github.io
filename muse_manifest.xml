@@ -1,29 +1,28 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sophiaboss11.github.io" resolutions="1x,2x" timestamp="1591833558788">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sophiaboss11.github.io" resolutions="1x,2x" timestamp="1591846417853">
   <folder name="assets">
     <file name="--mt---toolbox---scroll-reveal-(1.1).mulib" crc="510472003" seo="true" mt="1589603925000"/>
-    <file name="blurvideoedit.mp4" crc="3821044661" seo="true" mt="1589589394000"/>
     <file name="img_6417.cr2" crc="3953758834" seo="true" mt="1591360640000"/>
     <file name="img_6416.cr2" crc="387654161" seo="true" mt="1591360594000"/>
     <file name="bartender_playblast.avi" crc="377744818" seo="true" mt="1588665556000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3839925840"/>
-    <file name="about.css" crc="306792664" ref="about"/>
-    <file name="index.css" crc="4251390174" ref="index"/>
-    <file name="master_a-master.css" crc="4170048256" ref="2d:3d:work:let-s-connect:links:about:resume:design:home:projects:bodylogical:nicotine-simulation:animation-studio:critique-page"/>
-    <file name="2d.css" crc="195442840" ref="2d"/>
-    <file name="3d.css" crc="3876271047" ref="3d"/>
-    <file name="work.css" crc="3931465682" ref="work"/>
-    <file name="let-s-connect.css" crc="467600375" ref="let-s-connect"/>
-    <file name="links.css" crc="4207050797" ref="links"/>
-    <file name="resume.css" crc="175428591" ref="resume"/>
-    <file name="design.css" crc="403684119" ref="design"/>
-    <file name="home.css" crc="117596499" ref="home"/>
-    <file name="projects.css" crc="4049231038" ref="projects"/>
-    <file name="bodylogical.css" crc="306792664" ref="bodylogical"/>
-    <file name="nicotine-simulation.css" crc="306792664" ref="nicotine-simulation"/>
-    <file name="animation-studio.css" crc="306792664" ref="animation-studio"/>
-    <file name="critique-page.css" crc="306792664" ref="critique-page"/>
+    <file name="about.css" crc="437927889" ref="about"/>
+    <file name="index.css" crc="3792590301" ref="index"/>
+    <file name="master_a-master.css" crc="3770011903" ref="2d:3d:work:let-s-connect:links:about:resume:design:home:projects:bodylogical:nicotine-simulation:animation-studio:critique-page"/>
+    <file name="2d.css" crc="495268839" ref="2d"/>
+    <file name="3d.css" crc="3829312158" ref="3d"/>
+    <file name="work.css" crc="332177398" ref="work"/>
+    <file name="let-s-connect.css" crc="462825550" ref="let-s-connect"/>
+    <file name="links.css" crc="322550768" ref="links"/>
+    <file name="resume.css" crc="175375361" ref="resume"/>
+    <file name="design.css" crc="4173252537" ref="design"/>
+    <file name="home.css" crc="147802635" ref="home"/>
+    <file name="projects.css" crc="34847697" ref="projects"/>
+    <file name="bodylogical.css" crc="437927889" ref="bodylogical"/>
+    <file name="nicotine-simulation.css" crc="437927889" ref="nicotine-simulation"/>
+    <file name="animation-studio.css" crc="437927889" ref="animation-studio"/>
+    <file name="critique-page.css" crc="497929302" ref="critique-page"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:links:work:home:2d:3d:design:projects:resume:let-s-connect:critique-page:animation-studio:bodylogical:nicotine-simulation"/>
@@ -41,28 +40,6 @@
     </file>
     <file name="txrlogo.png" crc="535545514" seo="true" ref="links">
       <caption webpage="links" alt=""/>
-    </file>
-    <file name="black fade.png" crc="83662889" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="black fade_2x.png" crc="482644972" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="sophiaboss.png" crc="3824372476" seo="true" ref="about:links:work:home:2d:3d:design:projects:resume:let-s-connect:critique-page:animation-studio:bodylogical:nicotine-simulation">
-      <caption webpage="work" alt=""/>
-      <caption webpage="links" alt=""/>
-      <caption webpage="nicotine-simulation" alt=""/>
-      <caption webpage="design" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="let-s-connect" alt=""/>
-      <caption webpage="2d" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="bodylogical" alt=""/>
-      <caption webpage="animation-studio" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="critique-page" alt=""/>
-      <caption webpage="3d" alt=""/>
     </file>
     <file name="work_button-layer 2.png" crc="390350711" ref="home">
       <caption webpage="home" alt=""/>
@@ -178,7 +155,7 @@
     <file name="img_0104_2x.png" crc="3952541031" seo="true" ref="2d">
       <caption webpage="2d" alt=""/>
     </file>
-    <file name="blender_finished.jpg" crc="33509957" seo="true" ref="index">
+    <file name="blender_finished.jpg" crc="3995767155" seo="true" ref="2d">
       <caption webpage="index" alt=""/>
       <caption webpage="2d" alt=""/>
     </file>
@@ -404,23 +381,52 @@
     <file name="facebook-logo.png" crc="191460715" seo="true" ref="let-s-connect">
       <caption webpage="let-s-connect" alt=""/>
     </file>
-    <file name="blender_finished2.jpg" crc="3995767155" seo="true" ref="2d">
+    <file name="sb_icon.gif" crc="4191900242" seo="true" ref="about:links:work:home:2d:3d:design:projects:resume:let-s-connect:critique-page:animation-studio:bodylogical:nicotine-simulation">
+      <caption webpage="about" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="critique-page" alt=""/>
+      <caption webpage="let-s-connect" alt=""/>
       <caption webpage="2d" alt=""/>
+      <caption webpage="bodylogical" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="animation-studio" alt=""/>
+      <caption webpage="3d" alt=""/>
+      <caption webpage="links" alt=""/>
+      <caption webpage="nicotine-simulation" alt=""/>
+    </file>
+    <file name="sb_icon_2x.gif" crc="4191900242" seo="true" ref="about:links:work:home:2d:3d:design:projects:resume:let-s-connect:critique-page:animation-studio:bodylogical:nicotine-simulation">
+      <caption webpage="about" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="critique-page" alt=""/>
+      <caption webpage="let-s-connect" alt=""/>
+      <caption webpage="2d" alt=""/>
+      <caption webpage="bodylogical" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="animation-studio" alt=""/>
+      <caption webpage="3d" alt=""/>
+      <caption webpage="links" alt=""/>
+      <caption webpage="nicotine-simulation" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="235883665" seo="true" mt="1591833516039" redirect="true"/>
-  <file name="about.html" crc="3918481305" seo="true" mt="1591833472234" redirect="true"/>
-  <file name="links.html" crc="3957543487" seo="true" mt="1591833472369" redirect="true"/>
-  <file name="work.html" crc="4113465778" seo="true" mt="1591833472234" redirect="true"/>
-  <file name="home.html" crc="475442099" seo="true" mt="1591833472234" redirect="true"/>
-  <file name="2d.html" crc="4234203780" seo="true" mt="1591833472234" redirect="true"/>
-  <file name="3d.html" crc="4281100026" seo="true" mt="1591833472234" redirect="true"/>
-  <file name="design.html" crc="3941952077" seo="true" mt="1591833472234" redirect="true"/>
-  <file name="projects.html" crc="4214330827" seo="true" mt="1591833472234" redirect="true"/>
-  <file name="resume.html" crc="400966493" seo="true" mt="1591833472234" redirect="true"/>
-  <file name="let-s-connect.html" crc="505533595" seo="true" mt="1591833472234" redirect="true"/>
-  <file name="critique-page.html" crc="3878470857" seo="true" mt="1591833472234" redirect="true"/>
-  <file name="animation-studio.html" crc="4168404004" seo="true" mt="1591833472234" redirect="true"/>
-  <file name="bodylogical.html" crc="4087133460" seo="true" mt="1591833472234" redirect="true"/>
-  <file name="nicotine-simulation.html" crc="309556211" seo="true" mt="1591833472234" redirect="true"/>
+  <file name="index.html" crc="129222532" seo="true" mt="1591845626826" redirect="true"/>
+  <file name="about.html" crc="351421722" seo="true" mt="1591842324842" redirect="true"/>
+  <file name="links.html" crc="32458422" seo="true" mt="1591842324842" redirect="true"/>
+  <file name="work.html" crc="525997245" seo="true" mt="1591842324842" redirect="true"/>
+  <file name="home.html" crc="3398187" seo="true" mt="1591842324842" redirect="true"/>
+  <file name="2d.html" crc="4287964747" seo="true" mt="1591843675513" redirect="true"/>
+  <file name="3d.html" crc="4219962334" seo="true" mt="1591842324842" redirect="true"/>
+  <file name="design.html" crc="4073480409" seo="true" mt="1591842324842" redirect="true"/>
+  <file name="projects.html" crc="380714256" seo="true" mt="1591842324842" redirect="true"/>
+  <file name="resume.html" crc="271898629" seo="true" mt="1591842324842" redirect="true"/>
+  <file name="let-s-connect.html" crc="3779281459" seo="true" mt="1591842324842" redirect="true"/>
+  <file name="critique-page.html" crc="143848595" seo="true" mt="1591843924052" redirect="true"/>
+  <file name="animation-studio.html" crc="8166739" seo="true" mt="1591842324842" redirect="true"/>
+  <file name="bodylogical.html" crc="4101621980" seo="true" mt="1591842324842" redirect="true"/>
+  <file name="nicotine-simulation.html" crc="199283617" seo="true" mt="1591842324842" redirect="true"/>
 </manifest>
