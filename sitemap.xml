@@ -7,136 +7,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://sophiaboss11.github.io/about.html</loc>
-    <lastmod>2020-06-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/color-logo-01_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/txrlogo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/sb_icon.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/sb_icon_2x.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/phoho.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/phoho_2x.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://sophiaboss11.github.io/links.html</loc>
-    <lastmod>2020-06-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/color-logo-01_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/txrlogo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/sb_icon.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/sb_icon_2x.gif</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://sophiaboss11.github.io/work.html</loc>
-    <lastmod>2020-06-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/sb_icon.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/sb_icon_2x.gif</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://sophiaboss11.github.io/nicotine-simulation.html</loc>
-    <lastmod>2020-06-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/sb_icon.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/sb_icon_2x.gif</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://sophiaboss11.github.io/bodylogical.html</loc>
-    <lastmod>2020-06-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/sb_icon.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/sb_icon_2x.gif</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://sophiaboss11.github.io/critiquepage.html</loc>
-    <lastmod>2020-06-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/sb_icon.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/sb_icon_2x.gif</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://sophiaboss11.github.io/let-s-connect.html</loc>
-    <lastmod>2020-06-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/ig-logo-email.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/linkedin.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/facebook-logo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/sb_icon.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/sb_icon_2x.gif</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://sophiaboss11.github.io/resume.html</loc>
-    <lastmod>2020-06-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/bliztern%20resume%205.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/bliztern%20resume%205_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/sb_icon.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/sb_icon_2x.gif</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://sophiaboss11.github.io/animation-studio.html</loc>
+    <loc>http://sophiaboss11.github.io/3d.html</loc>
     <lastmod>2020-06-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -152,6 +23,12 @@
     <lastmod>2020-06-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/sb_icon.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/sb_icon_2x.gif</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://sophiaboss11.github.io/images/exhibition_poster_3_2.jpg</image:loc>
     </image:image>
@@ -176,15 +53,9 @@
     <image:image>
       <image:loc>http://sophiaboss11.github.io/images/choreo%20show%20poster%20top%20starspsd_2x.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/sb_icon.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/sb_icon_2x.gif</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://sophiaboss11.github.io/3d.html</loc>
+    <loc>http://sophiaboss11.github.io/projects.html</loc>
     <lastmod>2020-06-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -196,7 +67,49 @@
     </image:image>
   </url>
   <url>
-    <loc>http://sophiaboss11.github.io/projects.html</loc>
+    <loc>http://sophiaboss11.github.io/about.html</loc>
+    <lastmod>2020-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/sb_icon.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/sb_icon_2x.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/phoho.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/phoho_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/color-logo-01_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/txrlogo.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://sophiaboss11.github.io/links.html</loc>
+    <lastmod>2020-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/sb_icon.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/sb_icon_2x.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/color-logo-01_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/txrlogo.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://sophiaboss11.github.io/work.html</loc>
     <lastmod>2020-06-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -213,16 +126,16 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/sb_icon.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/sb_icon_2x.gif</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://sophiaboss11.github.io/images/purple_tree_cropped.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://sophiaboss11.github.io/images/purple_tree_cropped_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/power_cube_2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/power_cube_2_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://sophiaboss11.github.io/images/drip%20girl.jpg</image:loc>
@@ -231,22 +144,10 @@
       <image:loc>http://sophiaboss11.github.io/images/drip%20girl_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/lion.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/lion_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://sophiaboss11.github.io/images/mountain_poster_final_merged_1.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://sophiaboss11.github.io/images/mountain_poster_final_merged_1_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/img_1129.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/img_1129_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://sophiaboss11.github.io/images/exhibition_poster_2_1.jpg</image:loc>
@@ -255,22 +156,10 @@
       <image:loc>http://sophiaboss11.github.io/images/exhibition_poster_2_1_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/manwithstick.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/manwithstick_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://sophiaboss11.github.io/images/charcoal%20drawing.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://sophiaboss11.github.io/images/charcoal%20drawing_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/scannable%20document%2017%20on%20jun%205,%202020%20at%205_04_41%20pm.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/scannable%20document%2017%20on%20jun%205,%202020%20at%205_04_41%20pm_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://sophiaboss11.github.io/images/scannable%20document%2018%20on%20jun%205,%202020%20at%205_04_41%20pm.jpg</image:loc>
@@ -279,10 +168,34 @@
       <image:loc>http://sophiaboss11.github.io/images/scannable%20document%2018%20on%20jun%205,%202020%20at%205_04_41%20pm_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/scannable%20document%20on%20jun%205,%202020%20at%204_36_49%20pm.jpg</image:loc>
+      <image:loc>http://sophiaboss11.github.io/images/power_cube_2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/scannable%20document%20on%20jun%205,%202020%20at%204_36_49%20pm_2x.jpg</image:loc>
+      <image:loc>http://sophiaboss11.github.io/images/power_cube_2_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/lion.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/lion_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/img_1129.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/img_1129_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/manwithstick.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/manwithstick_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/scannable%20document%2017%20on%20jun%205,%202020%20at%205_04_41%20pm.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/scannable%20document%2017%20on%20jun%205,%202020%20at%205_04_41%20pm_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://sophiaboss11.github.io/images/scannable%20document%209%20on%20jun%205,%202020%20at%205_20_22%20pm.jpg</image:loc>
@@ -315,16 +228,10 @@
       <image:loc>http://sophiaboss11.github.io/images/dystopia1_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/scannable%20document%209%20on%20jun%205,%202020%20at%205_04_41%20pm.jpg</image:loc>
+      <image:loc>http://sophiaboss11.github.io/images/scannable%20document%20on%20jun%205,%202020%20at%204_54_02%20pm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/scannable%20document%209%20on%20jun%205,%202020%20at%205_04_41%20pm_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/scannable%20document%20on%20jun%205,%202020%20at%205_09_49%20pm.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/scannable%20document%20on%20jun%205,%202020%20at%205_09_49%20pm_2x.jpg</image:loc>
+      <image:loc>http://sophiaboss11.github.io/images/scannable%20document%20on%20jun%205,%202020%20at%204_54_02%20pm_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://sophiaboss11.github.io/images/scannable%20document%205%20on%20jun%205,%202020%20at%205_04_41%20pm.jpg</image:loc>
@@ -333,10 +240,10 @@
       <image:loc>http://sophiaboss11.github.io/images/scannable%20document%205%20on%20jun%205,%202020%20at%205_04_41%20pm_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/scannable%20document%20on%20jun%205,%202020%20at%204_54_02%20pm.jpg</image:loc>
+      <image:loc>http://sophiaboss11.github.io/images/scannable%20document%20on%20jun%205,%202020%20at%205_09_49%20pm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sophiaboss11.github.io/images/scannable%20document%20on%20jun%205,%202020%20at%204_54_02%20pm_2x.jpg</image:loc>
+      <image:loc>http://sophiaboss11.github.io/images/scannable%20document%20on%20jun%205,%202020%20at%205_09_49%20pm_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://sophiaboss11.github.io/images/scannable%20document%20on%20jun%205,%202020%20at%205_20_22%20pm.jpg</image:loc>
@@ -434,6 +341,33 @@
     <image:image>
       <image:loc>http://sophiaboss11.github.io/images/red%20project_2x.jpg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://sophiaboss11.github.io/let-s-connect.html</loc>
+    <lastmod>2020-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/sb_icon.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/sb_icon_2x.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/ig-logo-email.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/linkedin.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/facebook-logo.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://sophiaboss11.github.io/critiquepage.html</loc>
+    <lastmod>2020-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <image:image>
       <image:loc>http://sophiaboss11.github.io/images/sb_icon.gif</image:loc>
     </image:image>
@@ -442,68 +376,128 @@
     </image:image>
   </url>
   <url>
-    <loc>http://sophiaboss11.github.io/assets/img_6417.cr2</loc>
-    <lastmod>2020-06-05</lastmod>
+    <loc>http://sophiaboss11.github.io/bodylogical.html</loc>
+    <lastmod>2020-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/sb_icon.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/sb_icon_2x.gif</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://sophiaboss11.github.io/resume.html</loc>
+    <lastmod>2020-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/sb_icon.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/sb_icon_2x.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/bliztern%20resume%205.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/bliztern%20resume%205_2x.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://sophiaboss11.github.io/animation-studio.html</loc>
+    <lastmod>2020-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/sb_icon.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/sb_icon_2x.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/waterfall_sculpt.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/waterfall_sculpt_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/rendermushroomtexture.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/rendermushroomtexture_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/dragonflyrendercolor.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/dragonflyrendercolor_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/waterfall_textured.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/waterfall_textured_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/millipede.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/millipede_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/ice%20rendered.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/ice%20rendered_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/bulldozerrendertextured_web.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/bulldozerrendertextured_web_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/camptosaurus.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/camptosaurus_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/brontosaurus.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/brontosaurus_2x.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://sophiaboss11.github.io/nicotine-simulation.html</loc>
+    <lastmod>2020-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/sb_icon.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sophiaboss11.github.io/images/sb_icon_2x.gif</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://sophiaboss11.github.io/assets/panorama.jpg</loc>
+    <lastmod>2020-06-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://sophiaboss11.github.io/assets/--mt---toolbox---scroll-reveal-(1.1).mulib</loc>
-    <lastmod>2020-05-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://sophiaboss11.github.io/assets/mod_three_1.2.min.js</loc>
-    <lastmod>2020-06-11</lastmod>
+    <loc>http://sophiaboss11.github.io/assets/mod_three_1.2.min2.js</loc>
+    <lastmod>2020-06-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://sophiaboss11.github.io/assets/giphy.gif</loc>
-    <lastmod>2020-06-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://sophiaboss11.github.io/assets/panorama.jpg</loc>
-    <lastmod>2020-06-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://sophiaboss11.github.io/assets/pawel-czerwinski-bmaotpbzpmk-unsplash.jpg</loc>
-    <lastmod>2020-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://sophiaboss11.github.io/assets/moshed-2020-6-13-20-58-53.gif</loc>
-    <lastmod>2020-06-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://sophiaboss11.github.io/assets/load.gif</loc>
-    <lastmod>2020-06-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://sophiaboss11.github.io/assets/img_6416.cr2</loc>
-    <lastmod>2020-06-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://sophiaboss11.github.io/assets/rock_ore_002_norm.jpg</loc>
-    <lastmod>2020-05-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://sophiaboss11.github.io/assets/bartender_playblast.avi</loc>
-    <lastmod>2020-05-05</lastmod>
+    <lastmod>2020-06-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
