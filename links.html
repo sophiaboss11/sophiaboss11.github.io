@@ -11,14 +11,14 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "links.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "jquery.musepolyfill.bgsize.js", "links.css"], "outOfDate":[]};
 </script>
   
   <title>Links</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=3839925840"/>
   <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=4110669070"/>
-  <link rel="stylesheet" type="text/css" href="css/links.css?crc=3874128277" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/links.css?crc=4289802087" id="pagesheet"/>
     <!--HTML Widget code-->
   <headHTML>
   <style>.fade
@@ -168,6 +168,183 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 					transition:all 0.3s ease;
 				}</style>
 </headHTML>
+		<style>
+.gradient {
+  width: 100%;
+  height: 100vh;
+  background-image: radial-gradient(at 300px 300px, rgba(143,226,255,.9) 0, #598DFA 80%);
+}
+
+</style>
+
+	
+		<style>
+.u5225 {
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  border: none;
+  box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1) inset;
+  background: transparent;
+  position: relative;
+  cursor: pointer;
+  overflow: hidden;
+  color: transparent;
+  height: 116px;
+  width: 100%;
+  opacity:1;
+}
+.u5225:hover .u5225outline-button__line {
+  -webkit-transform: none;
+          transform: none;
+}
+
+.u5225outline-button__lines {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  opacity:1;
+}
+
+.u5225outline-button__line {
+  background: #FFFFFF;
+  position: absolute;
+  -webkit-transition: -webkit-transform 0.6s cubic-bezier(0.86, 0, 0.07, 1);
+  transition: -webkit-transform 0.6s cubic-bezier(0.86, 0, 0.07, 1);
+  transition: transform 0.6s cubic-bezier(0.86, 0, 0.07, 1);
+  transition: transform 0.6s cubic-bezier(0.86, 0, 0.07, 1), -webkit-transform 0.6s cubic-bezier(0.86, 0, 0.07, 1);
+}
+.u5225outline-button__line--horizontal {
+  width: 100%;
+  height: 3px;
+  -webkit-transition-delay: 0.27273s;
+          transition-delay: 0.27273s;
+}
+.u5225outline-button__line--vertical {
+  width: 3px;
+  height: 100%;
+  -webkit-transition-delay: none;
+          transition-delay: none;
+}
+.u5225outline-button__line--top {
+  top: 0;
+  left: 0;
+  -webkit-transform: translateX(-101%);
+          transform: translateX(-101%);
+}
+.u5225outline-button__line--right {
+  top: 0;
+  right: 0;
+width: 3px;
+  -webkit-transform: translateY(-100%);
+          transform: translateY(-100%);
+}
+.u5225outline-button__line--bottom {
+  bottom: 0;
+  left: 0;
+  -webkit-transform: translateX(100%);
+          transform: translateX(100%);
+}
+.u5225outline-button__line--left {
+  top: 0;
+  left: 0;
+  width: 3px;
+  -webkit-transform: translateY(100%);
+          transform: translateY(100%);
+}
+</style>
+	
+		<style>
+.u5249 {
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  border: none;
+  box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1) inset;
+  background: transparent;
+  position: relative;
+  cursor: pointer;
+  overflow: hidden;
+  color: transparent;
+  height: 164px;
+  width: 100%;
+  opacity:1;
+}
+.u5249:hover .u5249outline-button__line {
+  -webkit-transform: none;
+          transform: none;
+}
+
+.u5249outline-button__lines {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  opacity:1;
+}
+
+.u5249outline-button__line {
+  background: #FFFFFF;
+  position: absolute;
+  -webkit-transition: -webkit-transform 0.6s cubic-bezier(0.86, 0, 0.07, 1);
+  transition: -webkit-transform 0.6s cubic-bezier(0.86, 0, 0.07, 1);
+  transition: transform 0.6s cubic-bezier(0.86, 0, 0.07, 1);
+  transition: transform 0.6s cubic-bezier(0.86, 0, 0.07, 1), -webkit-transform 0.6s cubic-bezier(0.86, 0, 0.07, 1);
+}
+.u5249outline-button__line--horizontal {
+  width: 100%;
+  height: 3px;
+  -webkit-transition-delay: 0.27273s;
+          transition-delay: 0.27273s;
+}
+.u5249outline-button__line--vertical {
+  width: 3px;
+  height: 100%;
+  -webkit-transition-delay: none;
+          transition-delay: none;
+}
+.u5249outline-button__line--top {
+  top: 0;
+  left: 0;
+  -webkit-transform: translateX(-101%);
+          transform: translateX(-101%);
+}
+.u5249outline-button__line--right {
+  top: 0;
+  right: 0;
+width: 3px;
+  -webkit-transform: translateY(-100%);
+          transform: translateY(-100%);
+}
+.u5249outline-button__line--bottom {
+  bottom: 0;
+  left: 0;
+  -webkit-transform: translateX(100%);
+          transform: translateX(100%);
+}
+.u5249outline-button__line--left {
+  top: 0;
+  left: 0;
+  width: 3px;
+  -webkit-transform: translateY(100%);
+          transform: translateY(100%);
+}
+</style>
+	
+		<style>
+canvas {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  opacity: 0.4;
+}
+</style>
+	
  </head>
  <body>
 
@@ -188,8 +365,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 <canvas id="canvas"></canvas>
  
         </div>
-        <a class="nonblock nontext grpelem" id="u2283" href="index.html"><!-- simple frame --></a>
-        <a class="nonblock nontext grpelem" id="u2286" href="work.html"><!-- simple frame --></a>
+        <a class="nonblock nontext grpelem" id="u2283" href="work.html"><!-- simple frame --></a>
+        <a class="nonblock nontext grpelem" id="u2286" href="index.html"><!-- simple frame --></a>
         <a class="nonblock nontext grpelem" id="u2289" href="about.html"><!-- simple frame --></a>
         <a class="nonblock nontext grpelem" id="u2292" href="critiquepage.html"><!-- simple frame --></a>
        </div>
@@ -200,25 +377,68 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <div class="clearfix grpelem" id="u2101-3"><!-- content -->
       <p>&nbsp;</p>
      </div>
+     <div class="browser_width grpelem" id="u5238-bw">
+      <div class="size_browser_width" id="u5238"><!-- custom html -->
+       
+<div class="gradient"></div>
+
+      </div>
+     </div>
      <div class="clearfix grpelem" id="u529-4"><!-- content -->
       <p>The immersive visualization lab is a space located at UC San Diego that is dedicated to the development of augmented reality and virtual reality projects. Individuals who work at IVL receive funding through various companies to develop immersive applications. IVL is partnered with Qualcomm Institute recieving expanded support.</p>
      </div>
-     <a class="nonblock nontext grow clip_frame grpelem" id="u1578" href="https://qi.ucsd.edu/research-services/visualization.php"><!-- image --><img class="block" id="u1578_img" src="https://raw.githubusercontent.com/sophiaboss11/sophiaboss11.github.io/master/images/icons/Color-Logo-01.png" alt="" data-heightwidthratio="0.38114754098360654" data-image-width="244" data-image-height="93"/></a>
-    </div>
-    <div class="clearfix colelem" id="pu1588"><!-- group -->
-     <a class="nonblock nontext grow clip_frame grpelem" id="u1588" href="https://www.youtube.com/watch?v=rHJcJqsj1Wc"><!-- image --><img class="block" id="u1588_img" src="https://raw.githubusercontent.com/sophiaboss11/sophiaboss11.github.io/master/images/icons/txrlogo.png" alt="" data-heightwidthratio="1" data-image-width="146" data-image-height="146"/></a>
      <div class="clearfix grpelem" id="u535-6"><!-- content -->
       <p>Triton XR is an award-winning professional and social organization at UC San Diego, one of the largest and most successful XR student organizations in the nation, and the best resource for undergraduate students to engage with XR technology in San Diego. The organization holds numerous events including Hackathons, large-scale XR demos, workshops, project showcases, socials, and collaborations with other student organizations and departments on campus.</p>
       <p>&nbsp;</p>
       <p>&nbsp;</p>
      </div>
+     <div class="museBGSize size_fluid_width grpelem" id="u5225" data-sizePolicy="fluidWidth" data-pintopage="page_fluidx"><!-- custom html -->
+      
+<a href="https://qi.ucsd.edu/research-services/visualization.php" style="cursor: pointer">
+<button class="u5225">
+  Hover me
+  <span class="u5225outline-button__lines">
+    <span class="u5225outline-button__line u5225outline-button__line--horizontal u5225outline-button__line--top"></span>
+    <span class="u5225outline-button__line u5225outline-button__line--vertical u5225outline-button__line--right"></span>
+    <span class="u5225outline-button__line u5225outline-button__line--horizontal u5225outline-button__line--bottom"></span>
+    <span class="u5225outline-button__line u5225outline-button__line--vertical u5225outline-button__line--left"></span>
+   </span>
+</button>
+</a>
+
+     </div>
+     <div class="museBGSize size_fluid_width grpelem" id="u5249" data-sizePolicy="fluidWidth" data-pintopage="page_fluidx"><!-- custom html -->
+      
+<a href="https://qi.ucsd.edu/research-services/visualization.php" style="cursor: pointer">
+<button class="u5249">
+  Hover me
+  <span class="u5249outline-button__lines">
+    <span class="u5249outline-button__line u5249outline-button__line--horizontal u5249outline-button__line--top"></span>
+    <span class="u5249outline-button__line u5249outline-button__line--vertical u5249outline-button__line--right"></span>
+    <span class="u5249outline-button__line u5249outline-button__line--horizontal u5249outline-button__line--bottom"></span>
+    <span class="u5249outline-button__line u5249outline-button__line--vertical u5249outline-button__line--left"></span>
+   </span>
+</button>
+</a>
+
+     </div>
+     <div class="browser_width grpelem" id="u5261-bw">
+      <div class="size_browser_width" id="u5261"><!-- custom html -->
+       
+<canvas></canvas>
+
+      </div>
+     </div>
+     <div class="clearfix grpelem" id="u5266-4"><!-- content -->
+      <p>Links</p>
+     </div>
     </div>
    </div>
-   <div class="verticalspacer" data-offset-top="453" data-content-above-spacer="453" data-content-below-spacer="478" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   <div class="verticalspacer" data-offset-top="918" data-content-above-spacer="918" data-content-below-spacer="0" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
   </div>
   <!-- JS includes -->
   <script type="text/javascript">
-   if (document.location.protocol != 'https:') document.write('\x3Cscript src="http://musecdn.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+   if (document.location.protocol != 'https:') document.write('\x3Cscript src="http://musecdn2.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
 </script>
   <script type="text/javascript">
    window.jQuery || document.write('\x3Cscript src="scripts/jquery-1.8.3.min.js?crc=209076791" type="text/javascript">\x3C/script>');
@@ -234,7 +454,7 @@ var suppressMissingFileError = false
 k[1]:null,k=k&&k[2]?k[2]:null;switch(k.toLowerCase()){case "css":i=i.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");g.className+=" "+i;i=a(d(g,"color"));k=a(d(g,"backgroundColor"));i!=0||k!=0?(Muse.assets.required.splice(j,1),"undefined"!=typeof b[l]&&(i!=b[l]>>>24||k!=(b[l]&16777215))&&Muse.assets.outOfDate.push(l)):j++;g.className="version";break;case "js":j++;break;default:throw Error("Unsupported file type: "+k);}}c?c().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 g.parentNode.removeChild(g);if(Muse.assets.outOfDate.length||Muse.assets.required.length)g="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",f&&Muse.assets.outOfDate.length&&(g+="\nOut of date: "+Muse.assets.outOfDate.join(",")),f&&Muse.assets.required.length&&(g+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(g+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(g)):alert(g)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
 setTimeout(function(){f(!0)},5E3):f()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch"],function(c){var $ = c;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch","jquery.musepolyfill.bgsize"],function(c){var $ = c;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.detectScreenResolution();/* HiDPI screens */
@@ -249,7 +469,7 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 
 </script>
   <!-- RequireJS script -->
-  <script src="scripts/require.js?crc=4177726516" type="text/javascript" async data-main="scripts/museconfig.js?crc=3936894949" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
+  <script src="scripts/require.js?crc=4177726516" type="text/javascript" async data-main="scripts/museconfig.js?crc=128606099" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
   
   <!--HTML Widget code-->
   
@@ -257,5 +477,75 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 var TM=window.TM||{};TM.sliceWidth=1,TM.amplitude=3,TM.frequency=100,TM.amplitudeOffset=1.5,TM.message="Work         Home        About        Critique",TM.W=438,TM.H=44,TM.FONT_SIZE=20,TM.LOGO_RECT={x:0,y:0,width:TM.W,height:TM.FONT_SIZE},TM.init=function(){TM.setUpCanvas(),TM.SLICE_ANIM=new TM.SliceAnim,TM.initControls()},TM.setUpCanvas=function(){TM.LOGO_RECT.x=Math.round(.5*(TM.W-TM.LOGO_RECT.width)),TM.LOGO_RECT.y=Math.round(.5*(TM.H-TM.LOGO_RECT.height));var e=window.devicePixelRatio||1;TM.IS_RETINA=e>=1.5;var t=window.document.getElementById("canvas"),i=t.getContext("2d"),n=i.webkitBackingStorePixelRatio||i.mozBackingStorePixelRatio||i.msBackingStorePixelRatio||i.oBackingStorePixelRatio||i.backingStorePixelRatio||1,a=e/n;t.width=TM.W,t.height=TM.H;var T=t.width;t.width=T*a,t.style.width=T+"px";var s=t.height;t.height=s*a,t.style.height=s+"px",i.scale(a,a)},TM.initControls=function(){$(document).mousemove(function(e){TM.onInput(e.pageX-$("#canvas").offset().left,e.pageY-$("#canvas").offset().top)})},TM.onInput=function(e,t){if(TM.SLICE_ANIM){var i=-TM.LOGO_RECT.width+TM.LOGO_RECT.x,n=-TM.LOGO_RECT.height+TM.LOGO_RECT.y;if(maxX=2*TM.LOGO_RECT.width+TM.LOGO_RECT.x,maxY=2*TM.LOGO_RECT.height+TM.LOGO_RECT.y,e>=i&&e<=maxX&&t>=n&&t<=maxY){var a=(e-TM.LOGO_RECT.x)/TM.LOGO_RECT.width;TM.SLICE_ANIM.userInput(a)}else TM.SLICE_ANIM.userInput(0)}},$(window).ready(function(){TM.init()}),window.requestAnimFrame=function(){return window.requestAnimationFrame||window.webkitRequestAnimationFrame||window.mozRequestAnimationFrame||function(e){window.setTimeout(e,1e3/60)}}(),TM.SliceAnim=function(){var e=this;e.isPlaying=!1,e.sliceWidth=TM.sliceWidth,e.amplitude=TM.amplitude,e.frequency=TM.frequency,e.amplitudeOffset=TM.amplitudeOffset,e.wavePosition=1,e.sets=[],e.waveSpeed=13e-5,e.canvas=0,e.ctx=0,e.ix=-1,e.init=function(){e.canvas=document.getElementById("canvas"),e.ctx=e.canvas.getContext("2d"),setTimeout(function(){e.start()},100)},e.drawBuffer=function(){var e=TM.IS_RETINA?2:1,t=TM.message.toUpperCase(),i=["#73A0FF","#D23FFF","#E61D40","#0000FF","#FFFFD7"];buffer=document.createElement("canvas"),buffer.width=1e3*e,buffer.height=TM.LOGO_RECT.height*i.length*e;var n=buffer.getContext("2d");n.font=TM.LOGO_RECT.height*e+"px Arial",TM.LOGO_RECT.width=Math.ceil(n.measureText(t).width/e),TM.LOGO_RECT.x=Math.round(.5*(TM.W-TM.LOGO_RECT.width));for(var a=0,T=i.length;T>a;a++)n.fillStyle=i[a],n.fillText(t,0,-.25*TM.LOGO_RECT.height+(a+1)*TM.LOGO_RECT.height*e);return buffer},e.createSets=function(){e.sets=[],TM.LOGO_SHEET=new Image,TM.LOGO_SHEET.src=e.drawBuffer().toDataURL();for(var t=1,i=0;5>i;i++){var n={sliceWidth:e.sliceWidth,wavePosition:e.wavePosition,waveSpeed:e.waveSpeed,frequency:e.frequency,amplitude:e.amplitude*t},a=new TM.SliceSet(e.ctx,i,n);e.sets.push(a),t*=e.amplitudeOffset}},e.start=function(){e.isPlaying||(e.isPlaying=!0,e.createSets(),e.tick())},e.userInput=function(t){e.ix=t},e.tick=function(){e.ctx.clearRect(0,0,TM.W,TM.H);for(var t=e.sets.length-1;t>=0;t--)e.sets[t].tick(e.ix);e.isPlaying&&window.requestAnimFrame(e.tick.bind(this))},e.init()},TM.Slice=function(e,t,i,n,a){var T=this;T.img=e,T.rect=a,T.tx=a.x+TM.LOGO_RECT.x,T.ty=T.y=TM.LOGO_RECT.y,T.x=t+TM.LOGO_RECT.x,T.amplitude=0,T.height=n,T.width=i,T.update=function(){T.x+=.4*(T.tx-T.x),T.y+=.4*(T.ty-T.y)},T.draw=function(e){e.drawImage(T.img,T.rect.x,T.rect.y,T.rect.width,T.rect.height,T.x,T.y,T.width,T.height)}},TM.SliceSet=function(e,t,i){var n=this;n.slices=[],n.ctx=e,n.setindex=t,n.vo=i,n.frequency=n.vo.frequency,n.power=0,n.powerEase=.1,n.init=function(){n.createSlices()},n.createSlices=function(){n.slices=[];for(var e=Math.ceil(TM.LOGO_RECT.width/n.vo.sliceWidth),t=0;e>t;t++){var i=TM.IS_RETINA?2:1,a={x:t*i*n.vo.sliceWidth,y:n.setindex*i*TM.LOGO_RECT.height,width:i*n.vo.sliceWidth,height:i*TM.LOGO_RECT.height};n.slices.push(new TM.Slice(TM.LOGO_SHEET,t*n.vo.sliceWidth,n.vo.sliceWidth,TM.LOGO_RECT.height,a))}},n.tick=function(e){for(var t=n.slices.length,i=0;t>i;i++){var a=n.slices[i];if(e){var T=2*Math.min(.5,Math.abs(e-(i+1)/t)),s=Easing.Circular.EaseInOut(1-T);a.amplitude=s*n.vo.amplitude*n.power}else a.amplitude*=n.power;var o=((i+1)/395+n.vo.wavePosition)%1;a.ty=Math.sin(2*o*Math.PI*n.frequency)*a.amplitude+TM.LOGO_RECT.y,a.tx=TM.LOGO_RECT.x+i*n.vo.sliceWidth,a.update(),a.draw(n.ctx)}e?(n.vo.wavePosition+=n.vo.waveSpeed,n.power+=.1*(1-n.power)):n.power-=n.power*n.powerEase},n.init()},Easing={Circular:{}},Easing.Circular.EaseInOut=function(e){return(e/=.5)<1?-.5*(Math.sqrt(1-e*e)-1):.5*(Math.sqrt(1-(e-=2)*e)+1)};
 	 </script>
 				
+<script>
+var gradient = document.querySelector(".gradient");
+
+function onMouseMove(event) {
+  gradient.style.backgroundImage = 'radial-gradient(at ' + event.clientX + 'px ' + event.clientY + 'px, rgba(143,226,255,.9) 0, #598DFA 80%)';
+
+  TweenMax.set(gradient, {
+    backgroundImage: "radial-gradient(circle," + colors.top + ", " + colors.bottom + ")"
+  });
+
+  console.log(gradient.style.backgroundImage);
+}
+document.addEventListener("mousemove", onMouseMove);
+</script>
+	
+<script>
+
+</script>
+	
+<script>
+"use strict";
+
+var canvas = document.querySelector('canvas');
+var ctx = canvas.getContext("2d");
+canvas.width = canvas.offsetWidth;
+canvas.height = canvas.offsetHeight;
+var dim = 12;
+var ratio = .43;
+var dimOffset = dim;
+var maxWidth = canvas.width / (dim * ratio);
+var maxHeight = canvas.height / dim;
+var fps = 30;
+var interval = 1000 / fps;
+var then = Date.now();
+
+ctx.font = "normal " + dim + "px Arial";
+
+function render() {
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
+  for (var i = 0; i < maxHeight; i++) {
+    ctx.fillText(randomString(maxWidth, "aA#!"), 0, i * dim + dimOffset);
+  }
+}
+
+function randomString(length) {
+  var chars = arguments.length <= 1 || arguments[1] === undefined ? "aA#!" : arguments[1];
+
+  var mask = '';
+  if (chars.indexOf('a') > -1) mask += 'abcdefghijklmnopqrstuvwxyz';
+  if (chars.indexOf('A') > -1) mask += 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+  if (chars.indexOf('#') > -1) mask += '0123456789';
+  if (chars.indexOf('!') > -1) mask += '~`!@#$%^&*()_+-={}[]:";\'<>?,./|\\';
+  var result = '';
+  for (var i = length; i > 0; --i) {
+    result += mask[Math.floor(Math.random() * mask.length)];
+  }return result;
+}
+
+function update() {
+  var now = Date.now();
+  var delta = now - then;
+  if (delta >= interval) {
+    then = now - delta % interval;
+    render();
+  }
+  window.requestAnimationFrame(update);
+}
+window.requestAnimationFrame(update);
+</script>
+	
    </body>
 </html>
